@@ -24,6 +24,3 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 30000
-api: 
-  encrypt: 
-    key: preservedEgg
